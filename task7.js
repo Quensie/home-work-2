@@ -13,4 +13,10 @@ for (let key in salaries) {
 let average = sum / Object.keys(salaries).length;
 
 console.log(average);
-//
+/*let salaries = {
+  Cris: 150,
+  Brain: 600,
+  John: 300,
+  Steve: 400,
+  Bill: 50
+};
